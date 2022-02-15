@@ -1,0 +1,11 @@
+{
+    "Block_index": 6,
+    "previous_block_hash": "c85468b2f13984057cbdaaec7c69c22412c551ede4bf64ff1fe28c8deec2bfba",
+    "transaction": {
+        "tram1": "PSG.LGD",
+        "tram2": "Fnatic",
+        "Time": "9.00",
+        "Date": "2022-01-29"
+    },
+    "hash_block": "b93606a2a5e447d3620903e25e0eb1b6aefa3a9b972408a48ac19da027873688"
+}

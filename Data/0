@@ -1,0 +1,8 @@
+{
+    "Block_index": 0,
+    "previous_block_hash": "0",
+    "transaction": [
+        "Genesis Block"
+    ],
+    "hash_block": "de7b5d1c3c6e97e51b8f8446fee44808f713386511a5b69b1ef2e53289ddcdda"
+}

@@ -1,0 +1,11 @@
+{
+    "Block_index": 7,
+    "previous_block_hash": "b93606a2a5e447d3620903e25e0eb1b6aefa3a9b972408a48ac19da027873688",
+    "transaction": {
+        "tram1": "Vici Gaming",
+        "tram2": "Evil Geniuses",
+        "Time": "9.00",
+        "Date": "2022-01-29"
+    },
+    "hash_block": "482d95f1658817d45148b7812010c83d7a16f735ea383047b2e0eb21ae4ed698"
+}

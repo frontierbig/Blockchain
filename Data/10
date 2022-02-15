@@ -1,0 +1,11 @@
+{
+    "Block_index": 10,
+    "previous_block_hash": "323a72bdbe95a232a4549f0ba5ba79a7d148a64f4b3cdf867eda88c3d3cda805",
+    "transaction": {
+        "tram1": "PSG.LGD",
+        "tram2": "Elephant",
+        "Time": "9.00",
+        "Date": "2022-01-30"
+    },
+    "hash_block": "9fefa88d52e1774511bf4018a9770763486df0b1fadb42f81bfcca3caf963e46"
+}

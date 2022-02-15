@@ -1,0 +1,11 @@
+{
+    "Block_index": 2,
+    "previous_block_hash": "45f20af97205077a34db82def569ecd05c06a8d9025f75d55e94a747ec1b8641",
+    "transaction": {
+        "tram1": "Team Spirit",
+        "tram2": "Virtus.pro",
+        "Time": "16.00",
+        "Date": "2022-01-28"
+    },
+    "hash_block": "2278254833a06ff60f2f277ccb10643912f0a94c51296895a2ab210a553dbb81"
+}

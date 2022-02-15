@@ -1,0 +1,11 @@
+{
+    "Block_index": 3,
+    "previous_block_hash": "2278254833a06ff60f2f277ccb10643912f0a94c51296895a2ab210a553dbb81",
+    "transaction": {
+        "tram1": "PSG.LGD",
+        "tram2": "Evil Geniuses",
+        "Time": "9.00",
+        "Date": "2022-01-28"
+    },
+    "hash_block": "6ed033366707511686df3a5caf80d513bd34393446aea19f080f089082188a3d"
+}
